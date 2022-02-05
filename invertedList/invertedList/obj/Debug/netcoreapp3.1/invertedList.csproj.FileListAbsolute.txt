@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.exe
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.deps.json
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.runtimeconfig.json
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.runtimeconfig.dev.json
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.dll
+C:\Users\pc\source\repos\invertedList\invertedList\bin\Debug\netcoreapp3.1\invertedList.pdb
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.AssemblyInfo.cs
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.dll
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.pdb
+C:\Users\pc\source\repos\invertedList\invertedList\obj\Debug\netcoreapp3.1\invertedList.genruntimeconfig.cache
